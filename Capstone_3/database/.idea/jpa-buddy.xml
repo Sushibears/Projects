@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="cc45e9b1-a00f-4f84-beea-9ed7d35fe256" />
+    <option name="reLastEntityCreationPackage" value="commerce_data/src/main/java/com/teksystems/bootcamp/commerce_data/models/DBEntities" />
+  </component>
+</project>
